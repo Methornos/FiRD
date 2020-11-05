@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fe1c73cf3d113a84f8bf32b8a7fddd3c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: mr_StakeThroughtheHeartBBG
+  fontNames:
+  - mr_StakeThroughtheHeartBBG
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
